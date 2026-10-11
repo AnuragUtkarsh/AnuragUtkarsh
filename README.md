@@ -1,63 +1,62 @@
-Hi, I'm Anurag Utkarsh ✨
+# Anurag Utkarsh | Linux & Cloud Infrastructure Engineer
 
-Linux & Cloud Infrastructure Engineer building toward DevSecOps — passionate about automation, security hardening, and high-availability systems.
+Linux & Cloud Infrastructure Engineer focused on enterprise Linux operations, production troubleshooting, infrastructure automation, and cloud technologies.
 
-**Current Role:**
-Cloud Engineer (Enterprise Infrastructure & Automation) @ Cloud4C Services | RHCE & RHCSA Certified | Azure Administrator (AZ-104)
+## About Me
 
+- Hands-on experience in Linux system administration and L2/L3 production support.
+- Build automation using Bash scripting and Ansible.
+- Developed and deployed an internal infrastructure operations portal to streamline recurring operational workflows.
+- Experience in incident management, change requests, server migrations, monitoring, and troubleshooting.
+- Continuously building practical skills in cloud, containers, DevOps, databases, logging, and cybersecurity.
 
-**🧩 About Me**
+## Technical Skills
 
+| Area | Technologies and Expertise |
+|---|---|
+| Linux & Infrastructure | RHEL, SUSE Linux Enterprise Server, Ubuntu, production troubleshooting, system administration |
+| Automation | Bash, Shell Scripting, Ansible, Python scripting |
+| Cloud & Virtualization | Microsoft Azure, VMware Workstation, KVM |
+| Monitoring & Logging | Zabbix, ELK Stack (Elasticsearch, Logstash, Kibana) |
+| Database | MySQL, SQL |
+| Containers & DevOps | Docker, Kubernetes, Git, GitHub; developing practical CI/CD and Infrastructure as Code skills |
+| Security & Networking | Fortinet cybersecurity fundamentals, Linux security, SSH, DNS, networking troubleshooting |
 
-Linux & Cloud Infrastructure Engineer at Cloud4C with 2+ years of experience
-Manage and support 20,000+ production Linux servers across enterprise hybrid cloud environments
-Built and manage SUSE-based HA clusters (Corosync, Pacemaker, SBD) across 5 customer environments
-Worked on VMware → KVM migration projects, including SAP HANA systems
-Developed Ansible playbooks and Shell/Python automation for banking transaction systems (incl. ADIB Bank)
-Strong focus on security hardening (SSH, PAM, Auditd, OpenSCAP), HA clustering, and enterprise cloud support
-Currently expanding into DevOps — Docker, Kubernetes, Git/GitHub, and CI/CD (GitHub Actions) via hands-on labs (KodeKloud)
+## Certifications
 
+- Red Hat Certified System Administrator (RHCSA)
+- Red Hat Certified Engineer (RHCE)
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Fortinet Certified Cybersecurity Associate
 
-**🛠️ Skills & Tech Stack**
+## Infrastructure Automation
 
+### Infrastructure Operations Portal
 
-Linux: RHEL, SUSE, Ubuntu — Administration, Troubleshooting, Performance Tuning, Kernel Hardening
-Automation & Scripting: Ansible, Shell Scripting, AWK, Python (working knowledge)
-Virtualization: VMware → KVM Migrations, libvirt
-Cloud Infra: Microsoft Azure (AZ-104), AWS, Oracle Cloud Infrastructure, SAP HANA on Cloud
-HA & Clustering: Pacemaker, Corosync, SBD Fencing, NFS, autofs, systemd
-Security: SSH Hardening, PAM, sudo Policies, Auditd, OpenSCAP, NIST CSF, CIS Controls
-DevOps (Building): Docker, Kubernetes fundamentals, Git, GitHub, CI/CD (GitHub Actions)
-Monitoring: Zabbix, Prometheus, Grafana
+Developed and deployed an internal web-based portal to streamline infrastructure operations and make recurring workflows accessible through a centralized interface.
 
+- Pre-checks and post-checks
+- Compliance checks and operational validation
+- Perform all day to day operation of a linux engineer.
+- Reboot and other infrastructure operation workflows
+- Supporting deployment documentation and standard operating procedures
 
-**🏆 Certifications**
+### Bash & Ansible Automation
 
+- Developed shell scripts and Ansible playbooks for recurring operational tasks.
+- Focus on repeatability, reduced manual effort, and standardized execution.
+- Public portfolio repositories contain independent practice work; employer-confidential code and configurations are not published.
 
-Red Hat Certified Engineer (RHCE)
-Red Hat Certified System Administrator (RHCSA)
-Microsoft Certified: Azure Administrator Associate (AZ-104)
-Microsoft Certified: Azure Fundamentals (AZ-900), Security Fundamentals (SC-900), AI Fundamentals (AI-900)
-Oracle Cloud Infrastructure Foundations Associate & Oracle AI Foundations Associate
-Fortinet Certified Cybersecurity Associate
-NVIDIA AI Infrastructure Certificate
-AWS Certified Cloud Practitioner
-NPTEL — Cloud Computing
+## What I'm Working Towards
 
-**🚀 Featured Projects**
+- Deepening hands-on skills in Kubernetes and container orchestration.
+- Building practical DevOps projects and improving infrastructure automation.
+- Expanding cloud, observability, and CI/CD capabilities.
 
-Multi-User Linux Command Portal — Flask-based GUI for executing Linux commands across multiple servers with role-based user context and live console output; built to reduce manual CLI intervention for routine sysadmin tasks
-VMware to KVM Migration — Migrated enterprise SAP HANA workloads from VMware ESXi to KVM infrastructure with minimal downtime (Cloud4C project)
-Shell-scripting-challenge — Daily shell scripting practice and real-world automation challenges
-Linux Troubleshooting Labs — Repository of common real-world fixes & automation scripts
+## Career Interests
 
-**📫 Connect with Me**
+Linux Engineering · Cloud Infrastructure · Infrastructure Automation · DevOps · Production Support
 
+📍 Hyderabad, India
 
-📧 Email: anuragutkarsh2003@gmail.com
-💼 LinkedIn: linkedin.com/in/anuragutkarsh
-🌍 Location: Hyderabad, India
-
-
-
-⭐️ Open to opportunities in Cloud Engineering, Linux Administration, DevOps, and Infrastructure Security.
+Thanks for visiting my profile!

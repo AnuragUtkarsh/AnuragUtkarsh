@@ -15,11 +15,11 @@ Linux & Cloud Infrastructure Engineer focused on enterprise Linux operations, pr
 | Area | Technologies and Expertise |
 |---|---|
 | Linux & Infrastructure | RHEL, SUSE Linux Enterprise Server, Ubuntu, production troubleshooting, system administration |
-| Automation | Bash, Shell Scripting, Ansible, Python scripting |
-| Cloud & Virtualization | Microsoft Azure, VMware Workstation, KVM |
-| Monitoring & Logging | Zabbix, ELK Stack (Elasticsearch, Logstash, Kibana) |
+| Automation | Bash, Shell Scripting, Ansible Playbook, Python scripting |
+| Cloud & Virtualization | Microsoft Azure, VMware Workstation, KVM, AWS|
+| Monitoring & Logging | Zabbix, ELK Stack (Elasticsearch, Logstash, Kibana) Prometheus and grafana |
 | Database | MySQL, SQL |
-| Containers & DevOps | Docker, Kubernetes, Git, GitHub; developing practical CI/CD and Infrastructure as Code skills |
+| Containers & DevOps | Docker, Kubernetes, Git, GitHub; developing practical CI/CD and Infrastructure as Code skills Terraform |
 | Security & Networking | Fortinet cybersecurity fundamentals, Linux security, SSH, DNS, networking troubleshooting |
 
 ## Certifications
